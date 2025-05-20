@@ -1,1 +1,1 @@
-# Proyectotopicos
+# Este proyecto trata de un sistemas de autobuses en la cual existen tres usuarios chofer, un administrador, y pasajeros en la cuales cada uno tiene una interfaz, en este caso el proyecto tiene varias clases por lo que se tiene que hacer en uno solo, tener una clase que nos conecte a la base de datos que es en sqlife3,  tambien agrega a funciones en botones tambien que tenga coherencia en todo proyecto y hacerlo en uno solo 
